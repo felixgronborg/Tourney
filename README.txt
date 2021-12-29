@@ -1,5 +1,5 @@
 README
-Ladda ned Node.js installer (https://nodejs.org/en/download/)
-Kör installer
-Försäkra om att det funkat genom att köra i CMD: "node -v" och "npm -v" (Kan behöva starta om datorn)
-Kör "npm install -g @angular/cli"
+1. Download Node.js installer (https://nodejs.org/en/download/)
+2. Run installer
+3. Make sure installation was complete by running: "node -v" and "npm -v" (May need to restart system)
+4. Run "npm install -g @angular/cli"
