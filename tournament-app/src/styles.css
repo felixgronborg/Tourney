@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+header {
+    padding: 60px;
+    text-align: center;
+    background: #333333;
+    color: #e0e0e0;
+    font-size: 30px;
+    border-bottom: black;
+}
+
+body {
+    background: #333333 !important;
+    color: #e0e0e0 !important;
+}
