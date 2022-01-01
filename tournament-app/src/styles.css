@@ -2,13 +2,18 @@
 header {
     padding: 60px;
     text-align: center;
-    background: #333333;
+    background: #111111;
     color: #e0e0e0;
     font-size: 30px;
-    border-bottom: black;
 }
 
 body {
-    background: #333333 !important;
+    background: #111111 !important;
     color: #e0e0e0 !important;
+}
+
+.card {
+    background-color: #222222;
+    margin-left: 20px;
+    margin-right: 20px;
 }
